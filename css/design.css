@@ -1,0 +1,30 @@
+img.logo {
+	height: 30%%;
+	width: 100%
+}
+
+img.bg {
+	background-image: url(/img/paper.jpg);
+	background-repeat: no-repeat;
+	width: 600px;
+	height: 700px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: teal;
+   color: white;
+   text-align: center;
+}
+
+div.a {
+  font-size: 10px;
+  text-align: center;
+}
+
+input[type="radio"] {
+  margin-right: 15px;
+}
